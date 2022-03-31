@@ -24,4 +24,8 @@
 
 > git branch
 
+Для перехода к ветке с именем branch_name:
+
+> git checkout branch_name
+
 ![some pic](/image/HTML5_Logo.jpg)
