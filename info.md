@@ -28,4 +28,8 @@
 
 > git checkout branch_name
 
+Чтобы создать и сразу перейти к созданной ветке:
+
+> git checkout -b branch_name
+
 ![some pic](/image/HTML5_Logo.jpg)
