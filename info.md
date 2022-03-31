@@ -24,4 +24,8 @@
 
 > git branch
 
+Для создания ветки с именем branch_name:
+
+> git baranch branch_name
+
 ![some pic](/image/HTML5_Logo.jpg)
