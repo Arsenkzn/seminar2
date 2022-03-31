@@ -36,4 +36,9 @@
 
 > git baranch branch_name
 
+Для совмещения веток используют:
+> git merge branch_name
+
+информация из branch_name передастся в текущую ветку
+
 ![some pic](/image/HTML5_Logo.jpg)
