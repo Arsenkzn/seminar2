@@ -51,4 +51,8 @@
 
 > git branch -D branch_name
 
+Можно посмотреть состояние сляний веток добавив к коменде log тег --graph:
+
+> git log --graph
+
 ![some pic](/image/HTML5_Logo.jpg)
