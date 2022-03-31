@@ -32,4 +32,8 @@
 
 > git checkout -b branch_name
 
+Для создания ветки с именем branch_name:
+
+> git baranch branch_name
+
 ![some pic](/image/HTML5_Logo.jpg)
