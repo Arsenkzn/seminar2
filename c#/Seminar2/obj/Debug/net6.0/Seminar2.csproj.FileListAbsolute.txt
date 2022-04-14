@@ -1,0 +1,15 @@
+C:\GIT\c#\Seminar2\bin\Debug\net6.0\Seminar2.exe
+C:\GIT\c#\Seminar2\bin\Debug\net6.0\Seminar2.deps.json
+C:\GIT\c#\Seminar2\bin\Debug\net6.0\Seminar2.runtimeconfig.json
+C:\GIT\c#\Seminar2\bin\Debug\net6.0\Seminar2.dll
+C:\GIT\c#\Seminar2\bin\Debug\net6.0\Seminar2.pdb
+C:\GIT\c#\Seminar2\obj\Debug\net6.0\Seminar2.csproj.AssemblyReference.cache
+C:\GIT\c#\Seminar2\obj\Debug\net6.0\Seminar2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\c#\Seminar2\obj\Debug\net6.0\Seminar2.AssemblyInfoInputs.cache
+C:\GIT\c#\Seminar2\obj\Debug\net6.0\Seminar2.AssemblyInfo.cs
+C:\GIT\c#\Seminar2\obj\Debug\net6.0\Seminar2.csproj.CoreCompileInputs.cache
+C:\GIT\c#\Seminar2\obj\Debug\net6.0\Seminar2.dll
+C:\GIT\c#\Seminar2\obj\Debug\net6.0\refint\Seminar2.dll
+C:\GIT\c#\Seminar2\obj\Debug\net6.0\Seminar2.pdb
+C:\GIT\c#\Seminar2\obj\Debug\net6.0\Seminar2.genruntimeconfig.cache
+C:\GIT\c#\Seminar2\obj\Debug\net6.0\ref\Seminar2.dll
